@@ -1,2 +1,2 @@
-# empire94Bot 
+empire94-bot-
 My Empire94 Deriv Auto Trading/Signal Bot
